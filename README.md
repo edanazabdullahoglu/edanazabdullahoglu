@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edanaz</h1>
-<h3 align="center">I am currently developing user interfaces for a drone company, with a focus on real-time video transmission and communication protocols. My work involves AI-based image processing, as well as handling both thermal and standard camera systems. Additionally, I have expertise in Qt for application development, along with experience in optimizing media streaming and processing for efficient communication and control</h3>
+<h3 align="Left">I am currently developing user interfaces for a drone company, with a focus on real-time video transmission and communication protocols. My work involves AI-based image processing, as well as handling both thermal and standard camera systems. Additionally, I have expertise in Qt for application development, along with experience in optimizing media streaming and processing for efficient communication and control</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
